@@ -6,5 +6,6 @@ baseurl: /blog
 url: "http://www.waipy.com"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
 permalink: pretty
